@@ -11,7 +11,7 @@ var Nav = () => {
             <IndexLink to="/" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>Timer</IndexLink>
           </li>
           <li>
-            <IndexLink to="/" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>CountDown</IndexLink>
+            <IndexLink to="/countdown" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>CountDown</IndexLink>
           </li>
         </ul>
       </div>
