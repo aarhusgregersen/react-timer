@@ -13,9 +13,6 @@ var Nav = () => {
           <li>
             <IndexLink to="/" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>CountDown</IndexLink>
           </li>
-          <li>
-            <IndexLink to="/" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>Examples</IndexLink>
-          </li>
         </ul>
       </div>
       <div className="top-bar-right">
